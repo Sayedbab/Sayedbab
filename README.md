@@ -3,6 +3,4 @@
 - My projects include a Carshop Management System, BMI calculator, GPA calculator, Guess the Secret Number game, and Marvel Movie Rating.
 - You can reach out to me at sayedbabiker200e@gmail.com
   
-Sayedbab/Sayedbab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
