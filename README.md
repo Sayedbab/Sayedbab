@@ -30,7 +30,7 @@ Lead Team Member: Managed team members, trained staff on safety and operational 
 
 Get In Touch
 
-Email: sayedbabiker20oe@gmail.com
+Email: sayedbabiker200e@gmail.com
 
 GitHub: github.com/sayedbab
 
